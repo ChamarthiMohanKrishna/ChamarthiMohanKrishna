@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChamarthiMohanKrishna
 - 👀 I’m interested in ... web Development
-- 🌱 I’m currently learning ... Java Script
+- 🌱 I’m currently learning ... Fullstack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Instagram : @dis_is_mohan_ and Twitter : CMKofficial16
 
